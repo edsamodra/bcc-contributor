@@ -25,8 +25,8 @@ You will make a copy of the card template inside the HTML file and customise it 
 
 ## Contribute Overview
  1️⃣ [Fork this repository](#fork-this-repository) <br />
- 2️⃣ [Clone the repository](#clone-the-repository) <br />
- 3️⃣ [Create a new branch](#create-a-new-branch) <br />
+ 2️⃣ [Create a new branch](#create-a-new-branch) <br />
+ 3️⃣ [Clone the repository](#clone-the-repository) <br />
  4️⃣ [Open the directory file in the VSCode](#open-the-directory-file-in-the-vscode) <br />
  5️⃣ [Copy the card template and make changes](#copy-the-card-template-and-make-changes) <br />
  6️⃣ [Commit and push your changes](#commit-and-push-your-changes) <br /> 
@@ -48,21 +48,21 @@ Click **Fork** to copy this repo to your github account
 
 ---
 
-### Clone the repository
-Copy the URL and open your terminal. Then write command like the picture below
-
-| ![Clone](https://i.ibb.co/kXNjH4B/clone.png 'Clone')     |
-| :------------------------------------------------------- |
-| ![Clone](https://i.ibb.co/TBz2tfr/clone-2.png 'Clone 2') |
-
----
-
 ### Create a new branch
 A branch is a way to keep your changes separate from the main part of the project called `Master`. For example if things go wrong and you are not happy with your changes you can simply delete the branch and the main project won't be affected. <br />
 So, you can click "Create branch: ..." like the picture below
 
 | ![Create a new branch](https://i.ibb.co/4Snpx7r/create-branches.png 'Create a new branch') |
 | :------------------------------------------------ |
+
+---
+
+### Clone the repository
+Copy the URL and open your terminal. Then write command like the picture below
+
+| ![Clone](https://i.ibb.co/kXNjH4B/clone.png 'Clone')     |
+| :------------------------------------------------------- |
+| ![Clone](https://i.ibb.co/TBz2tfr/clone-2.png 'Clone 2') |
 
 ---
 
