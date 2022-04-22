@@ -97,10 +97,10 @@ You can copy the card template from here. Then put the code file after ```</div>
         </p>
         <div class="sosmed">
             <a href="https://github.com/YOUR_USERNAME">
-                <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github logo">
+                <i class="bi-github" style="font-size: 1.8rem; color: black;"></i>
             </a>
             <a href="https://instagram.com/YOUR_USERNAME">
-                <img src="https://www.fiveacrefarms.com/wp-content/uploads/2019/04/instagram.png" alt="instagram logo">
+                <i class="bi-instagram" style="font-size: 1.8rem; color: black;"></i>
             </a>
         </div>
     </div>
